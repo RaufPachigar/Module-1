@@ -1,0 +1,79 @@
+Q.1 What is software? What is software engineering?
+Ans. Software is a program or set of programs containing instructions that provide desired functionality.
+     Software Engineering is the process of designing, developing, testing, and maintaining software.
+
+Q2.Explain types of software.
+
+Ans.   There are three types of software.
+
+           1. System software 2. Application Software 3. Programming Software
+
+
+          1. System Software: System software allows the user to run computer software or hardware and is responsible for managing their interaction with each other.
+                               System software is of four types, which are as follows.
+                               1. Operating System – The operating system is a collection of software that helps execute programs and offers a computer application’s general services. 
+                                  There are various types of operating systems, such as iOS, macOS, Windows, Unix, Linux, and Ubuntu, among others.
+			       2. Device Drivers – Device drivers handle the operations of the hardware devices connected to a computer. They act as a software interface for the 
+                                  hardware devices so that applications and the operating system of a computer can run the hardware functions without knowing of 
+                                  the hardware’s exact specifications.
+                               3. Firmware – Firmware is embedded in the read-only memory of a system and is a type of permanent software that offers low-level control for certain 
+                                  device hardware.
+          
+ 
+         2. Application Software: Application software or application programs are end-user programs that serve specific functionality to help users accomplish certain tasks. This 
+                                  includes graphic designing, researching online, drafting documents, watching movies or playing games, and managing finances among others. Developers 
+                                  keep creating software applications based on the evolving needs of users. There are various types of application software, which are as follows-
+                                 1. Word Processors – Word processor software, as the name suggests, is designed for making notes, typing data, and documentation. Users can also  
+                                    format,  store, and print their data and documents respectively using word processes.
+                                 2. Database Software – Also known as Database Management System (DBMS), database software allows users to perform various operations on quickly 
+                                    retrieved data, such as creation, management, organization, and modification. Some popular examples of DBMS are MS Access, dBase, MySQL, Oracle, 
+                                    Microsoft SQL Server, and FileMaker.
+                                 3. Multimedia Software – Users can perform certain actions on their computer, such as playing and recording music and video files as well as creating 
+                                    images with the help of multimedia software. This type of software has a massive application in the field of graphic designing where users create 
+                                    gifs, images, animations, and edit videos. Adobe Photoshop and Illustrator, Windows Movie Maker and Media Player, Corel Draw, and Picasa are some 
+                                    common types of multimedia processors.
+
+        3. Programming Software: Programs and software are created by coders using different software tools, known as programming software. Some such programs used for software 
+                                 development by coders are as given below-
+                                 1. Compilers – The conversion of codes written by humans into lower-level machine code is performed by compilers. These machine codes can be 
+                                    interpreted directly by computer hardware. While compilers serve a very basic purpose, they are the basis for creating even the most complicated 
+                                    and sophisticated software.
+                                 2. Debuggers – Debuggers play an essential role in ensuring your software or application performs well by testing and debugging the computer code.
+                                 3. Linkers – Linkers are responsible for combining various individual files from a compiler into a single executable file. The file was converted, as a 
+                                    the result runs on its own without requiring a programming environment.
+
+Q.3 What is SDLC? Explain each phase of SDLC.
+
+Ans. The Software Development Life Cycle (SDLC) is a process used by software development organizations to plan, design, develop, test, deploy, and maintain software applications.
+      The SDLC typically includes the following phases:
+
+         1. Requirements gathering and analysis: This phase involves gathering information about the software requirements from stakeholders, such as customers, end-users, and 
+            business analysts.
+
+         2. Design: In this phase, the software design is created, which includes the overall architecture of the software, data structures, and interfaces. It has two steps:
+                    High-level design (HLD): It gives the architecture of software products.
+                    Low-level design (LLD): It describes how each and every feature in the product should work and every component.
+         3. Implementation or coding: The design is then implemented in code, usually in several iterations, and this phase is also called Development.
+                                      things you need to know about this phase:
+                                                                               1. This is the longest phase in the SDLC model.
+                                                                               2. This phase consists of the Front end + Middleware + Back-end.
+                                                                               3. In front-end: Development of coding is done even SEO settings are done.
+                                                                               4. In Middleware: They connect both the front end and back end.
+                                                                               5. In the back-end: A database is created.
+         4. Testing: The software is thoroughly tested to ensure that it meets the requirements and works correctly.
+
+         5. Deployment: After successful testing, The software is deployed to a production environment and made available to end-users.
+
+         6. Maintenance: This phase includes ongoing support, bug fixes, and updates to the software. 
+
+            There are different methodologies that organizations can use to implement the SDLC, such as Waterfall, Agile, Scrum, V-Model, and DevOps.
+
+
+       
+      
+
+
+
+
+
+
